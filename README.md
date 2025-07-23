@@ -1,4 +1,4 @@
-# Some miscellaneous projects
+# Some miscellaneous short projects
 
 Consists of various projects/programs of Image Processing, Scientific Programming, Probability and Statistics, and Regression  
 
